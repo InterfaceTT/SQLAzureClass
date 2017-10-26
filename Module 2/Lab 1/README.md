@@ -1,4 +1,4 @@
-# Lab 1 - Create a VM with SQL Server
+# Lab 1 - Provision a VM with SQL Server
 
 Create a VM using an image preconfigured with Windows Server and SQL Server
 
