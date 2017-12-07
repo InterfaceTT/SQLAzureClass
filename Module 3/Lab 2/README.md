@@ -8,3 +8,6 @@
 
 ## Notes
 
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/detailed-troubleshoot-rdp
+
+https://docs.microsoft.com/en-us/powershell/module/azurerm.network/get-azurermpublicipaddress
